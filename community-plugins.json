@@ -18765,5 +18765,15 @@
     "author": "Outsiders17711",
     "description": "Display files with custom extensions as syntax-highlighted code blocks in reading view with configurable extension-to-language mappings.",
     "repo": "Outsiders17711/Obsidian-Custom-Syntax-Highlights"
-  }
+  },
+  {
+  "id": "ms-people-sync",
+  "name": "Microsoft People Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Sync contacts from Microsoft Graph into People notes with configurable minimal templates.",
+  "author": "Pongpun Hirintranukul",
+  "isDesktopOnly": true
+}
+  
 ]
